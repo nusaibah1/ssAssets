@@ -1,1 +1,2 @@
 # ssAssets
+All rights reserved 
